@@ -1,7 +1,7 @@
 {
 	"photomosaic_folder": "mona-lisa-greyscale\\calculated",
 	"target_image": "mona-lisa-greyscale\\target_image.png",
-	"candidate_image_folder": "mona-lisa-greyscale\\candiate_images",
+	"candidate_image_folder": "mona-lisa-greyscale\\candidate_images",
 	"grid_x": 1024,
 	"grid_y": 685,
 	"output_x": 1024,
